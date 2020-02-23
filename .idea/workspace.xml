@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66dc39ec-4c14-47e1-9fcf-db7b565834fd" name="Default Changelist" comment="" />
+    <list default="true" id="66dc39ec-4c14-47e1-9fcf-db7b565834fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/fragment/submissions/FranciscoReinaPonce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TextReassemble/META-INF/TextReassemble.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TextReassemble/fragment/submissions/JonadDhrami.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TextReassemble/resources/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TextReassemble/resources/input2.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xt8CiNH1y8iaK8YJYZR39Lz1My" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -138,7 +148,7 @@
       <workItem from="1581853909984" duration="9764000" />
       <workItem from="1582125943658" duration="2209000" />
       <workItem from="1582464055588" duration="1942000" />
-      <workItem from="1582497259212" duration="47000" />
+      <workItem from="1582497259212" duration="843000" />
     </task>
     <servers />
   </component>
