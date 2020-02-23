@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66dc39ec-4c14-47e1-9fcf-db7b565834fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xt8CiNH1y8iaK8YJYZR39Lz1My" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jonad\JDREAMER\Java_Test\TextReassemble\src\fragment\submissions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jonad\JDREAMER\Java_Test\TextReassemble\src" />
+      <recent name="C:\Users\Jonad\JDREAMER\Java_Test\TextReassemble\src\fragment\submissions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JonadDhrami">
+    <configuration name="Defragmenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fragment.submissions.Defragmenter" />
+      <module name="TextReassemble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fragment.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FranciscoReinaPonce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fragment.submissions.FranciscoReinaPonce" />
+      <module name="TextReassemble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fragment.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JonadDhrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fragment.submissions.JonadDhrami" />
+      <module name="TextReassemble" />
+      <option name="PROGRAM_PARAMETERS" value="C:\\Users\\Jonad\\JDREAMER\\Java_Test\\TextReassemble\\src\\resources\\input2.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fragment.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortString" />
+      <module name="TextReassemble" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StefanCross" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fragment.submissions.StefanCross" />
+      <module name="TextReassemble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fragment.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Defragmenter" />
+      <item itemvalue="Application.FranciscoReinaPonce" />
+      <item itemvalue="Application.JonadDhrami" />
+      <item itemvalue="Application.SortString" />
+      <item itemvalue="Application.StefanCross" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JonadDhrami" />
+        <item itemvalue="Application.FranciscoReinaPonce" />
+        <item itemvalue="Application.Defragmenter" />
+        <item itemvalue="Application.SortString" />
+        <item itemvalue="Application.StefanCross" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66dc39ec-4c14-47e1-9fcf-db7b565834fd" name="Default Changelist" comment="" />
+      <created>1581853904619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581853904619</updated>
+      <workItem from="1581853909984" duration="9764000" />
+      <workItem from="1582125943658" duration="2209000" />
+      <workItem from="1582464055588" duration="1942000" />
+      <workItem from="1582497259212" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582464847108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582464847108" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1582130787888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582130787888" />
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom" timestamp="1582468488716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582468488716" />
+    <state width="1493" height="271" key="GridCell.Tab.0.center" timestamp="1582468488716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582468488716" />
+    <state width="1493" height="271" key="GridCell.Tab.0.left" timestamp="1582468488716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582468488716" />
+    <state width="1493" height="271" key="GridCell.Tab.0.right" timestamp="1582468488716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582468488716" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1581892431205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581892431205" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1581892431205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581892431205" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1581892431205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581892431205" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1581892431205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581892431205" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="overlapNumberPerText.entrySet().toArray()[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
